@@ -1,1 +1,2 @@
 This is another file
+Updated file2 content
